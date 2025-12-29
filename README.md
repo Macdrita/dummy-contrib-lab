@@ -21,3 +21,10 @@ The goal is to demonstrate professional Git hygiene, communication clarity, and 
 - Pull Requests that violate guidelines may be closed without comment
 
 If this feels strict, that is intentional.
+
+## Pull Request Expectations
+All Pull Requests are expected to:
+- Have a clear and descriptive title
+- Address a single, well-defined change
+- Explain what was changed and why
+- Respect reviewer time by avoiding unnecessary modifications
